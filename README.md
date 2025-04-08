@@ -10,5 +10,5 @@ Altaf Abdulla    15803100   altaf032614
 Hoon Yang        61132954
 Josiah Nguyen    24932181   Gilgakai
 Timothy Yee      69512728   timyee1
-Evan Te          82352453   te-evan
+Evan Tee         82352453   te-evan
 
