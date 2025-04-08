@@ -2,11 +2,13 @@
 
 Team Name: EECS Freaks
 
-Group members and IDs:
+Group Members:
 
 Name               ID         Github
-
-Altaf Abdullah   5803100    altaf032614 
+Marcus Catahay   68166016   MCatahayIDE
+Altaf Abdulla    15803100   altaf032614 
 Hoon Yang        61132954
 Josiah Nguyen    24932181   Gilgakai
+Timothy Yee      69512728   timyee1
+
 
