@@ -3,8 +3,8 @@
 Team Name: EECS Freaks
 
 Group Members:
+Name             ID         Github
 
-Name               ID         Github
 Marcus Catahay   68166016   MCatahayIDE
 Altaf Abdulla    15803100   altaf032614 
 Hoon Yang        61132954   Hoon-Yang0
