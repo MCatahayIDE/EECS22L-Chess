@@ -3,6 +3,8 @@
 Team Name: EECS Freaks
 
 Group Members:
+
+```
 Name             ID         Github
 
 Marcus Catahay   68166016   MCatahayIDE
@@ -12,3 +14,4 @@ Josiah Nguyen    24932181   Gilgakai
 Timothy Yee      69512728   timyee1
 Evan Te          82352453   te-evan
 Hengjun Pei      11065552   Jun06212001
+```
